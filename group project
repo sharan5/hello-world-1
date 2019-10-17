@@ -1,0 +1,20 @@
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D1, 'Stephanie', 'A+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D2, 'Michelle', 'B+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D3, 'Jean', 'A+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D4, 'Daniel' 'O+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D5, 'Marie','B+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D6, 'Timothy','O+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D7, 'Joyce', 'AB+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D8, 'Tina','O+');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D9, 'George','AB-');
+insert into Donor(donor_id, donor_name, donor_bloodgroup) values  
+(D10, 'Matthew', 'O-');
